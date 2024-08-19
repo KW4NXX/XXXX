@@ -1,12 +1,12 @@
 import react from "react";
-function Home (){
+function Player (){
     return( 
         <center>
 <div>
-    <h1>Home</h1>
-    <p>This Home Page </p>
+    <h1>Player</h1>
+    <p>This Player Page </p>
 </div>   
 </center>
     )
 }
-export default Home
+export default Player
